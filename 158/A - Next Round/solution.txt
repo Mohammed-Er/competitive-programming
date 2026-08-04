@@ -1,0 +1,15 @@
+n, k = map(int, input().split())
+ 
+arr = list(map(int, input().split()))
+ 
+advance_score = arr[k - 1]
+advancing_contestants = 0
+ 
+ 
+ 
+for num in arr:
+        if num >= advance_score and num > 0:
+            advancing_contestants += 1
+ 
+print(advancing_contestants)
+ 
