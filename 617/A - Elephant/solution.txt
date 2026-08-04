@@ -1,0 +1,9 @@
+n = int(input())
+ 
+ 
+fivs = n // 5
+ 
+if n % 5 == 0:
+    print(fivs)
+else:
+    print(fivs + 1)
