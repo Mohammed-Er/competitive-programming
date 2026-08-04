@@ -1,0 +1,10 @@
+k, n, w = map(int, input().split())
+ 
+needed_money = 0
+for i in range(w):
+    needed_money += k * (i + 1)
+ 
+if n > needed_money:
+    print("0")
+else:
+    print(needed_money - n)
