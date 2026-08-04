@@ -6,21 +6,80 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 13 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [math](#math) (1)
+- [*special](#special) (1)
+- [brute force](#brute-force) (3)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (7)
+- [math](#math) (4)
+- [sortings](#sortings) (1)
+- [strings](#strings) (5)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/231/A%20-%20Team/solution.txt) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/231/A%20-%20Team/solution.txt) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.txt) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/1/A%20-%20Theatre%20Square/solution.txt) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.txt) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Mohammed-Er/competitive-programming/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 
 ---
 
