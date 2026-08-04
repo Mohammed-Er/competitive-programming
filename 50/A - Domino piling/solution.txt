@@ -1,0 +1,6 @@
+m, n = map(int, input().split())
+ 
+squares = m * n
+ 
+dominos = squares // 2
+print(dominos)
